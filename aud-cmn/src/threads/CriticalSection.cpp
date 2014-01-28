@@ -16,7 +16,7 @@
  *  along with XBMC; see the file COPYING.  If not, see
  *  <http://www.gnu.org/licenses/>.
  *
- *  You can also contact with mail(gangx.li@intel.com)
+ *  You can also contact with mail(dlxqlig@gmail.com)
  */
 
 #include "Lockables.h"
